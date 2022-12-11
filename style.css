@@ -1,0 +1,68 @@
+h3 {
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+
+section {
+    background-color: #21323f;
+    text-align: center;
+    width: 23%;
+    margin: 0 auto;
+}
+
+button {
+    background-color: #435257;
+    border: none;
+    color: white;
+    width: 45%;
+    height: 40px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #17b288;
+}
+
+.name {
+    background-color: #21323f;
+    height: 27px;
+    width: 40%;
+    margin: 4px;
+    border: solid 2px #435257;
+}
+
+.email {
+    background-color: #21323f;
+    height: 27px;
+    width: 85%;
+    margin-top: 20px;
+    border: solid 2px #435257;
+}
+
+.password {
+    background-color: #21323f;
+    height: 27px;
+    width: 85%;
+    margin-top: 20px;
+    border: solid 2px #435257;
+}
+
+.btn {
+    background-color: #17b288;
+    height: 50px;
+    width: 87%;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size:  20px;
+}
+
+input{
+    color: gray;
+}

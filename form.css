@@ -1,0 +1,97 @@
+section {
+    background-color: orangered;
+    background-image: linear-gradient(orangered, yellow);
+    text-align: center;
+    width: 500px;
+    height: 700px;
+    margin: 0% auto;
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    padding: 30px;
+    border-bottom: 8px double white;
+    font-weight: lighter;
+}
+
+.name {
+    background-color: transparent;
+    width: 210px;
+    height: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-bottom: 3px double white;
+    border-radius: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    float: left;
+    
+}
+.firstname{
+    background-color: transparent;
+    width: 210px;
+    height: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-bottom: 3px double white;
+    border-radius: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+  
+}
+textarea {
+    width: 90%;
+    height: 150px;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 12px;
+    resize: none;
+}
+
+.btn {
+    color: white;
+    background-color: #ffd800;
+    width: 80px;
+    height: 40px;
+    border-radius: 4px;
+    border: 3px double white;
+    float: right;
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #ff4c00;
+}
+fieldset{
+    margin-bottom: 25px;
+    height: 100px;
+    border: 3px double white;
+
+}
+
+input, label{
+    float: left;
+    color : white;
+    
+
+}
+legend{
+    color: white;
+    font-family:'Times New Roman';
+    font-weight: bolder;
+}
+select{
+    margin-bottom: 10px;
+   text-align: left;
+}
+
+
+

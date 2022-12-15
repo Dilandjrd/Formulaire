@@ -27,7 +27,7 @@ h3 {
     border-top: none;
     border-left: none;
     border-right: none;
-    float: left;
+    
     
 }
 .firstname{
@@ -80,6 +80,7 @@ fieldset{
 input, label{
     float: left;
     color : white;
+    cursor: pointer;
     
 
 }
@@ -90,8 +91,8 @@ legend{
 }
 select{
     margin-bottom: 10px;
-   text-align: left;
-}
+    cursor: pointer;
+  }
 
 
 
